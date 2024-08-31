@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8wgCKhpZ)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15680594&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 Fundamental Concepts of Version Control and GitHub's Popularity
 Version control is a system that records changes to files or sets of files over time, allowing you to recall specific versions later. It's essential for maintaining project integrity by ensuring that every modification is tracked, which helps in identifying when and where changes were made. Version control systems like Git help manage code, documents, or any other file type in a collaborative environment, making it easier to work on projects with multiple contributors.
